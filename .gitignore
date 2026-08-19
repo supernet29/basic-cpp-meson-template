@@ -1,0 +1,7 @@
+# Temporal build files
+build/
+.cache/
+
+# sub-project files
+subprojects/*
+!subprojects/*.wrap
